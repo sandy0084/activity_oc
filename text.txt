@@ -1,1 +1,3 @@
 Je crée du texte dans ce fichier à partir de mon ordi...
+
+Je continue à écrire du texte mais cette fois à partir de GitHub.
